@@ -1,0 +1,3 @@
+# bruh.ninja
+
+placeholder :')

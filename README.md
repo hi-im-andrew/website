@@ -1,3 +1,3 @@
 # bruh.ninja
 
-placeholder :')
+very scuffed website, please don't judge

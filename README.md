@@ -1,3 +1,3 @@
 # bruh.ninja
 
-very scuffed website, please don't judge
+very scuffed Bootstrap website, please don't judge
